@@ -103,15 +103,15 @@ int main(){
     printf("A densidade populacional é: %.2f hab/km²\n", densidade2);
     printf("PIB per capta: %.2f reais\n", pibpercapta2);
 
-    //Exibição de cartas
+    //Comparação de cartas
     printf("\nComparação de cartas\n");
     printf("População: Carta 1 venceu (%d)\n", populacao1 > populacao2);
-    printf("Área: carta 1 venceu (%d\n)", areaemkm²1 > areaemkm²2);
-    printf("PIB: carta 1 venceu (%d\n)", PIB1 > PIB2);
-    printf("Pontos turísticos: carta 1 venceu (%d\n)", numerodepontosturisticos1 > numerodepontosturisticos2);
-    printf("Densidade: carta 1 venceu (%d\n)", densidade1 < densidade2);
-    printf("PIB per capta: carta 1 venceu (%d\n)", pibpercapta1 > pibpercapta2);
-    printf(" Super poder: carta 1 venceu (%d\n)", super1 > super2);
+    printf("Área: carta 1 venceu (%d)\n", areaemkm²1 > areaemkm²2);
+    printf("PIB: carta 1 venceu (%d)\n", PIB1 > PIB2);
+    printf("Pontos turísticos: carta 1 venceu (%d)\n", numerodepontosturisticos1 > numerodepontosturisticos2);
+    printf("Densidade: carta 1 venceu (%d)\n", densidade1 < densidade2);
+    printf("PIB per capta: carta 1 venceu (%d)\n", pibpercapta1 > pibpercapta2);
+    printf(" Super poder: carta 1 venceu (%d)\n", super1 > super2);
 
 
 
